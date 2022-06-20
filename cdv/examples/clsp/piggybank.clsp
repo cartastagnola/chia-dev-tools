@@ -8,9 +8,9 @@
 (mod (
        TARGET_AMOUNT
        CASH_OUT_PUZHASH
-       my_puzhash
        my_amount
        new_amount
+       my_puzhash
      )
 
   (include condition_codes.clib)
